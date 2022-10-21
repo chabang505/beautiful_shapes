@@ -16,7 +16,6 @@ const combinations = [
     { configuration: 1, roundness: 4},
     { configuration: 2, roundness: 2},
     { configuration: 2, roundness: 3},
-    { configuration: 3, roundness: 3}
 ];
 
 let prev = 0;
