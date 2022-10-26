@@ -197,51 +197,51 @@ body {
 }
 
 #wrapper[data-configuration="3"] > .shape:nth-child(1) {
-    left: 13%;
+    left: 3%;
     top: 26%;
     height: 27%;
     width: 17%;
 }
 
 #wrapper[data-configuration="3"] > .shape:nth-child(2) {
-    top: 52%;
-    left: 14%;
-    height: 47%;
-    width: 30%;
+    left: 20%;
+    top: 10%;
+    height: 49%;
+    width: 31%;
 }
 
 #wrapper[data-configuration="3"] > .shape:nth-child(3) {
-    left: 44%;
-    top: 58%;
-    height: 27%;
-    width: 17%;
-}
-
-#wrapper[data-configuration="3"] > .shape:nth-child(4) {
     position: absolute;
-    left: 50%;
+    left: 40%;
     top: 0%;
     height: 100%;
     width: 60%;
     z-index: -1;
 }
 
+#wrapper[data-configuration="3"] > .shape:nth-child(4) {
+    top: 52%;
+    left: 4%;
+    height: 47%;
+    width: 30%;
+}
+
 #wrapper[data-configuration="3"] > .shape:nth-child(5) {
-    left: 30%;
-    top: 10%;
-    height: 49%;
-    width: 31%;
+    left: 34%;
+    top: 58%;
+    height: 27%;
+    width: 17%;
 }
 
 #wrapper[data-configuration="3"] > .shape:nth-child(6) {
-    left: 80%;
+    left: 70%;
     top: 52%;
     height: 50%;
     width: 31%;
 }
 
 #wrapper[data-configuration="3"] > .shape:nth-child(7) {
-    left: 95%;
+    left: 85%;
     top: 77%;
     height: 25%;
     width: 15%;
